@@ -1,0 +1,4 @@
+{
+    "title": "[Rebranded] CatGPT 2.1 LLM BETA",
+    "description": "CatGPT 2.1 LLM BETA is an advanced, all-in-one ROM hacking kit and the sequel to Doctor 64. Utilizing generative adversarial networks (GANs), it generates and modifies game environments without a traditional game engine, trained on 50,000 episodes of classic games. This version introduces a web-scraping feature that gathers data from the internet and converts it into ROM hack memory through GPTBot. The model offers read-only ROM access to any device, enabling secure and versatile game development and research. It accelerates the creative process by automatically generating game levels, characters, and environments in real-time, responding dynamically to player actions. This beta version invites developers to explore and provide feedback, pushing the boundaries of ROM hacking and game development."
+}
